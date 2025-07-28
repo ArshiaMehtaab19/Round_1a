@@ -54,11 +54,11 @@ How to Build & Run (For Evaluation)
 This matches the competition's "Expected Execution" section.
 
 1. Build the Docker Image
-docker build --platform linux/amd64 -t pdfheadingextractor:yourtag .
+docker build -t pdfheadingextractor .
 2. Run the Solution
-docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --network none pdfheadingextractor:yourtag
-This will:
+docker run --rm -v "${PWD}\input:/app/input" -v "${PWD}\output:/app/output" pdfheadingextractor
 
+This will:
 Read all PDFs from /app/input
 
 Generate JSON files in /app/output (same name as PDFs)
