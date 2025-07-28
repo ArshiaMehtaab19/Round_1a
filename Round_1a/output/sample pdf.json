@@ -1,0 +1,135 @@
+{
+    "title": "Ph. D. Thesis Design, Evaluation and Analysis of Combinatorial Optimization Heuristic Algorithms",
+    "outline": [
+        {
+            "level": "H2",
+            "text": "Ph. D. Thesis Design, Evaluation and Analysis of Combinatorial Optimization Heuristic",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Algorithms",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "Declaration",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Abstract",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "Acknowledgment",
+            "page": 5
+        },
+        {
+            "level": "H3",
+            "text": "Contents",
+            "page": 6
+        },
+        {
+            "level": "H3",
+            "text": "CONTENTS GTSP Reduction Algorithms",
+            "page": 7
+        },
+        {
+            "level": "H3",
+            "text": "CONTENTS",
+            "page": 8
+        },
+        {
+            "level": "H3",
+            "text": "5.1.10 Modiﬁcation of the Algorithm for Preprocessing . . . . 133",
+            "page": 8
+        },
+        {
+            "level": "H3",
+            "text": "CONTENTS",
+            "page": 9
+        },
+        {
+            "level": "H1",
+            "text": "List of Tables",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "List of Figures",
+            "page": 12
+        },
+        {
+            "level": "H3",
+            "text": "Chapter 1 Introduction",
+            "page": 13
+        },
+        {
+            "level": "H3",
+            "text": "Chapter 2 is devoted to some approaches in heuristic design. It discusses",
+            "page": 14
+        },
+        {
+            "level": "H3",
+            "text": "Chapter 3 introduces a classiﬁcation of GTSP neighborhoods, proposes",
+            "page": 14
+        },
+        {
+            "level": "H3",
+            "text": "Chapter 4, similar to Chapter 3, considers the MAP neighborhoods and",
+            "page": 14
+        },
+        {
+            "level": "H3",
+            "text": "Chapter 5 is devoted to the so-called Memetic Algorithms (MA). MA",
+            "page": 14
+        },
+        {
+            "level": "H3",
+            "text": "1 Burkard et al. show it for a special case of 3-AP and since 3-AP is a special case of",
+            "page": 18
+        },
+        {
+            "level": "H3",
+            "text": "Chapter 2 Some Aspects of Heuristics Design",
+            "page": 22
+        },
+        {
+            "level": "H3",
+            "text": "30 years",
+            "page": 36
+        },
+        {
+            "level": "H3",
+            "text": "1 Here and further we assume that every weight is represented with a 4 byte integer",
+            "page": 39
+        },
+        {
+            "level": "H3",
+            "text": "2 We provide a simpliﬁed overview of cache; for detailed information, see, e.g., [6]",
+            "page": 40
+        },
+        {
+            "level": "H3",
+            "text": "Section 2.5.2",
+            "page": 46
+        },
+        {
+            "level": "H3",
+            "text": "Chapter 3 Local Search Algorithms for GTSP",
+            "page": 48
+        },
+        {
+            "level": "H3",
+            "text": "1 is the set of the GTSP instance vertices",
+            "page": 50
+        },
+        {
+            "level": "H3",
+            "text": "1 of the cluster T 1 , and E CO is a set of edges in the",
+            "page": 50
+        }
+    ]
+}
