@@ -53,9 +53,9 @@ Model size: <200MB
 How to Build & Run (For Evaluation)
 This matches the competition's "Expected Execution" section.
 
-1. Build the Docker Image
+1. Build the Docker Image:
 docker build -t pdfheadingextractor .
-2. Run the Solution
+2. Run the Solution:
 docker run --rm -v "${PWD}\input:/app/input" -v "${PWD}\output:/app/output" pdfheadingextractor
 
 This will:
